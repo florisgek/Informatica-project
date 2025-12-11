@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Podcast RSS</string>
+
+    <!-- Tabs -->
+    <string name="tab_podcasts">Podcasts</string>
+    <string name="tab_episodes">Episodes</string>
+
+    <!-- Actions -->
+    <string name="add_podcast">Add Podcast</string>
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="add_url">Add URL</string>
+
+    <!-- Player -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="skip_back">Skip Back</string>
+    <string name="skip_forward">Skip Forward</string>
+    <string name="rewind_10">Rewind 10 seconds</string>
+    <string name="forward_30">Forward 30 seconds</string>
+
+    <!-- Placeholders -->
+    <string name="episode_title_placeholder">Episode Title</string>
+    <string name="podcast_name_placeholder">Podcast Name</string>
+    <string name="podcast_artwork">Podcast artwork</string>
+    <string name="episode_artwork">Episode artwork</string>
+    <string name="played">Played</string>
+    <string name="view_episodes">View episodes</string>
+
+    <!-- Empty States -->
+    <string name="no_podcasts">No Podcasts Yet</string>
+    <string name="tap_to_add_podcast">Tap the + button to add your first podcast subscription</string>
+
+    <!-- Add Feed -->
+    <string name="search_or_enter_url">Search podcasts or enter RSS URL</string>
+    <string name="search_results">Search Results</string>
+    <string name="popular_podcasts">Popular Podcasts</string>
+
+    <!-- Settings -->
+    <string name="appearance">APPEARANCE</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Use dark theme for the app</string>
+
+    <string name="playback">PLAYBACK</string>
+    <string name="auto_play">Auto-play Next Episode</string>
+    <string name="auto_play_desc">Automatically play the next episode when one finishes</string>
+    <string name="skip_silence">Skip Silence</string>
+    <string name="skip_silence_desc">Skip silent parts in episodes</string>
+    <string name="default_speed">Default Playback Speed</string>
+    <string name="default_speed_desc">Set the default speed for all episodes</string>
+    <string name="skip_intro">Skip Intro</string>
+    <string name="skip_intro_desc">Automatically skip the first seconds of each episode</string>
+
+    <string name="network">NETWORK</string>
+    <string name="wifi_only">Stream on WiFi Only</string>
+    <string name="wifi_only_desc">Only stream audio when connected to WiFi</string>
+
+    <string name="about">ABOUT</string>
+    <string name="version">Version</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_cache_desc">Remove cached podcast data</string>
+</resources>
